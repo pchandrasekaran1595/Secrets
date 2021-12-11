@@ -1,0 +1,1 @@
+- Either run `build.bat` or `python main.py --build` to build the exe
